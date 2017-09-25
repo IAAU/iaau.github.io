@@ -9,9 +9,11 @@ Below, you will also find references to a second effort on another topic, [Life 
 
 ## Members
 
-![Jed Frees](https://avatars1.githubusercontent.com/u/24991282?v=4&s=150) https://github.com/ewfrees
+![Jed Frees](https://avatars1.githubusercontent.com/u/24991282?v=4&s=150) [Edward W (Jed) Frees](https://github.com/ewfrees)
 
-![Jacques Rioux](https://avatars0.githubusercontent.com/u/399647?v=4&s=150&_sm_au_=iVV6v2kttv35tWRH ) https://github.com/jariou
+![Jacques Rioux](https://avatars0.githubusercontent.com/u/399647?v=4&s=150&_sm_au_=iVV6v2kttv35tWRH ) [Jacques Rioux](https://github.com/jariou)
+
+![Lei Hua](https://avatars2.githubusercontent.com/u/15625279?v=4&s=150&_sm_au_=iVVF2ZwtRT3QTsWM) [Lei (Larry) Hua](https://github.com/larryleihua)
 
 
 ## What will success look like?
